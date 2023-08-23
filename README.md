@@ -4,7 +4,7 @@
 </p>
 <p align=center>I'm Nekosis, and I develop the Linux distribution Meowix Linux in my free time. It's a fun hobby and I put a lot of work into it. I'd appreciate it if you checked it out!</p>
 <p align=center>
-<img alt="Meowix Linux ISO Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Meowix-Linux&repo=Meowix-ISO&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
+<a href="https://github.com/Meowix-Linux/Meowix-ISO"><img alt="Meowix Linux ISO Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Meowix-Linux&repo=Meowix-ISO&show_owner=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"></a>
 </p>
 <p align=center>Thanks for looking at my profile. Have a nice day!</p>
 
