@@ -6,6 +6,11 @@
 <p align=center>
 <a href="https://github.com/Meowix-Linux/Meowix-ISO"><img alt="Meowix Linux ISO Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Meowix-Linux&repo=Meowix-ISO&show_owner=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"></a>
 </p>
+<p align=center>Here are some of my dotfiles for Neovim and Emacs:</p>
+<p align=center>
+<a href="https://github.com/Nekosis/sleepyneko"><img alt="SleepyNeko configuration for Neovim" src="https://github-readme-stats.vercel.app/api/pin/?username=Nekosis&repo=sleepyneko&show_owner=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"></a>
+<a href="https://github.com/Nekosis/nyamacs"><img alt="Nyamacs configuration for GNU Emacs" src="https://github-readme-stats.vercel.app/api/pin/?username=Nekosis&repo=nyamacs&show_owner=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"></a>
+</p>
 <p align=center>Thanks for looking at my profile. Have a nice day!</p>
 
 ##
